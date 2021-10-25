@@ -45,3 +45,5 @@ git push -u rhw --all
 ```
 
 * go to gitlab and witness all of yoyr markdown being screwed => go to https://www.markdownguide.org/basic-syntax and learn markdown syntax =(  Good markdown editor - VS code + markdownlint extension  
+
+> Mission failed!:(
